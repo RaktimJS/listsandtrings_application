@@ -6,9 +6,6 @@
 # ------------- SETUP ------------- #
 import os, time
 import module
-from pack import pack
-
-pack('lists_and_strings.py')
 
 os.system('cls')
 
